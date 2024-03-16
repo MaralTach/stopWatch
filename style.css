@@ -13,11 +13,11 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: royalblue;
+    background-color: rgb(230, 232, 238);
     clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
 }
 .row h1{
-    color: #fff;
+    color: royalblue;
     margin-bottom: 40px;
 }
 
@@ -27,18 +27,17 @@ body{
     align-items: center;
     flex-direction: column;
     background-color: rgb(192, 197, 211);
-    height: 150px;
-    width: 450px;
+   
     color: #fff;
     width: 50%;
     height: 50vh; 
-    box-shadow:
+    /* box-shadow:
   34.9px 22.4px 8.4px rgba(0, 0, 0, 0.02),
   47.3px 30.4px 24.6px rgba(0, 0, 0, 0.028),
   52px 33.4px 55.1px rgba(0, 0, 0, 0.035),
   54.1px 34.8px 112.3px rgba(0, 0, 0, 0.042),
   58.3px 37.5px 185.3px rgba(0, 0, 0, 0.05),
-  84px 54px 236px rgba(0, 0, 0, 0.07)
+  84px 54px 236px rgba(0, 0, 0, 0.07) */
 ;
 }   
 .btns > button{
@@ -55,12 +54,11 @@ body{
  
 }
 .btns{
-    width: 430px;
+    width: 45%;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-
-   
+    gap: 1rem;
 }
 button:disabled{
     cursor: not-allowed;

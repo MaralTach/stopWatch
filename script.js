@@ -1,12 +1,15 @@
-let hrs = 0;
-let min = 0;
-let sec = 0;
-let milisec = 0;
+
 
 let getHrs = document.getElementById("hrs");
 let getMin = document.getElementById("min");
 let getSec = document.getElementById("sec");
 let getMiliSec = document.getElementById('milisec');
+
+
+let hrs = 0;
+let min = 0;
+let sec = 0;
+let milisec = 0;
 
 let interval;
 
