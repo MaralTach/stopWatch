@@ -63,7 +63,7 @@ button:disabled{
     cursor: not-allowed;
 }
 .stop-watch h2{
-    background-color: #fff;
+    background-color: #f3eeee;
     color: royalblue;
     padding: 10px;
     margin-bottom: 0px !important;
