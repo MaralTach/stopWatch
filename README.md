@@ -21,10 +21,6 @@ This simple stopwatch application is created using HTML, CSS, and JavaScript. Th
 - CSS
 - JavaScript
 
-## Installation
-
-1. Clone this project or download it as a zip file.
-2. Upload the downloaded files to a web server or open them directly in a web browser.
 
 ## Screenshots
 
