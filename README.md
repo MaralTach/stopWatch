@@ -28,7 +28,7 @@ This simple stopwatch application is created using HTML, CSS, and JavaScript. Th
 
 ## Screenshots
 
-![Screenshot of Stopwatch Application](screenshot.png)
+![Screenshot of Stopwatch Application](./img/stopwatch.gif)
 
 ## Development Process
 
